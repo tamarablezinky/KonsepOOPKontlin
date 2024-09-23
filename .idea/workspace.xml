@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b2aac7b-cdf0-45e8-b66e-4bc1f9eedf13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/Initializer Block.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/PersonA.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Initializer_BlockKt">
+  <component name="RunManager" selected="Kotlin.PersonAKt">
     <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.GreeterTestKt" />
       <module name="KonsepOOPKontlin" />
@@ -54,8 +53,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.PersonAKt" />
+      <module name="KonsepOOPKontlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PersonAKt" />
         <item itemvalue="Kotlin.Initializer_BlockKt" />
         <item itemvalue="Kotlin.GreeterTestKt" />
       </list>
@@ -91,13 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727086817832</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Initializer Block.kt">
+      <created>1727093109503</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727093109523</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Greeter" />
     <MESSAGE value="Add GreeterTest.kt" />
     <MESSAGE value="Add Greeter.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Greeter.kt" />
+    <MESSAGE value="Add Initializer Block.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Initializer Block.kt" />
   </component>
 </project>

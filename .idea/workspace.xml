@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b2aac7b-cdf0-45e8-b66e-4bc1f9eedf13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/PersonA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/PersonB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/PersonC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/PersonD.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,14 +107,29 @@
       <option name="project" value="LOCAL" />
       <updated>1727093109523</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add GreeterTest.kt">
+      <created>1727094024350</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727094024351</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add PersonA.kt">
+      <created>1727094216261</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727094216261</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Greeter" />
-    <MESSAGE value="Add GreeterTest.kt" />
     <MESSAGE value="Add Greeter.kt" />
     <MESSAGE value="Add Initializer Block.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Initializer Block.kt" />
+    <MESSAGE value="Add GreeterTest.kt" />
+    <MESSAGE value="Add PersonA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PersonA.kt" />
   </component>
 </project>

@@ -71,6 +71,18 @@
       <option name="presentableId" value="Default" />
       <updated>1727084625586</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Greeter">
+      <created>1727086261365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727086261365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Greeter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Greeter" />
   </component>
 </project>

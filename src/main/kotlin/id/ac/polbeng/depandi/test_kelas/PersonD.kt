@@ -16,4 +16,4 @@ fun main(){
     val budi = PersonD("Budi", "Gunawan", 21)
     println("Name : ${budi.firstName} ${budi.lastName}")
     println("Age : ${budi.age}")
-} 
+}

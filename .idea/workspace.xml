@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b2aac7b-cdf0-45e8-b66e-4bc1f9eedf13" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b2aac7b-cdf0-45e8-b66e-4bc1f9eedf13" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -289,12 +287,24 @@
       <option name="project" value="LOCAL" />
       <updated>1727276748953</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Add NestedInnerClassB.kt">
+      <created>1727277375136</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1727277375137</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add DataClassA.kt">
+      <created>1727277576447</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727277576447</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Greeter.kt" />
-    <MESSAGE value="Add Initializer Block.kt" />
     <MESSAGE value="Add GreeterTest.kt" />
     <MESSAGE value="Add PersonA.kt" />
     <MESSAGE value="Add PersonB.kt" />
@@ -318,6 +328,8 @@
     <MESSAGE value="Add InterfaceD.kt" />
     <MESSAGE value="Add NestedInnerClass.kt" />
     <MESSAGE value="Add NestedInnerClassA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add NestedInnerClassA.kt" />
+    <MESSAGE value="Add NestedInnerClassB.kt" />
+    <MESSAGE value="Add DataClassA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassA.kt" />
   </component>
 </project>

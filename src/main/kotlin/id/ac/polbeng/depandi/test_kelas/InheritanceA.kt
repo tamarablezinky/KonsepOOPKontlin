@@ -1,6 +1,6 @@
 package id.ac.polbeng.depandi.test_kelas
 
-/ Parent class
+// Parent class
 open class Computer(val name: String,
                     val brand: String) {
 }
@@ -17,4 +17,4 @@ class Laptop(name: String,
 fun main(){
     val myLaptop = Laptop("Acer Aspire 4738", "Acer", 2.5)
     println(myLaptop.info())
-} 
+}

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b2aac7b-cdf0-45e8-b66e-4bc1f9eedf13" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b2aac7b-cdf0-45e8-b66e-4bc1f9eedf13" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727275244853</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add InterfaceB.kt">
+      <created>1727275522211</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1727275522212</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -279,6 +284,7 @@
     <MESSAGE value="Add AccessModifierA Abstrak.kt" />
     <MESSAGE value="Add InheritanceE.kt" />
     <MESSAGE value="Add InterfaceA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InterfaceA.kt" />
+    <MESSAGE value="Add InterfaceB.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InterfaceB.kt" />
   </component>
 </project>

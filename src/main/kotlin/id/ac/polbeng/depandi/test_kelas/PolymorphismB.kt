@@ -1,7 +1,7 @@
 package id.ac.polbeng.depandi.test_kelas
 
 open class MyBase {
-   
+
     open fun think () {
         println("Hey!! i am thinking ")
     }

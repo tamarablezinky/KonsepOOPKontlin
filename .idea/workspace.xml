@@ -301,12 +301,24 @@
       <option name="project" value="LOCAL" />
       <updated>1727277576447</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add DataClassB.kt">
+      <created>1727277702444</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1727277702444</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Add DataClassC.kt">
+      <created>1727277921950</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1727277921950</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add GreeterTest.kt" />
-    <MESSAGE value="Add PersonA.kt" />
     <MESSAGE value="Add PersonB.kt" />
     <MESSAGE value="Add PersonE.kt" />
     <MESSAGE value="Add PersonF.kt" />
@@ -330,6 +342,8 @@
     <MESSAGE value="Add NestedInnerClassA.kt" />
     <MESSAGE value="Add NestedInnerClassB.kt" />
     <MESSAGE value="Add DataClassA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassA.kt" />
+    <MESSAGE value="Add DataClassB.kt" />
+    <MESSAGE value="Add DataClassC.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassC.kt" />
   </component>
 </project>

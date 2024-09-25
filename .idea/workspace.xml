@@ -347,7 +347,6 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add EnkapsulasiB.kt" />
     <MESSAGE value="Add InheritanceA.kt" />
     <MESSAGE value="Add InheritanceB.kt" />
     <MESSAGE value="Add InheritanceC.kt" />
@@ -372,6 +371,7 @@
     <MESSAGE value="Add DataClassE.kt" />
     <MESSAGE value="Add DataClassF.kt" />
     <MESSAGE value="Add InheritanceF.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceF.kt" />
+    <MESSAGE value="Add InheritanceH.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceH.kt" />
   </component>
 </project>

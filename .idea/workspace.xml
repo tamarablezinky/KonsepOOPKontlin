@@ -343,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727278443681</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Add InheritanceH.kt">
+      <created>1727278992030</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1727278992030</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Add InheritanceH.kt">
+      <created>1727279133418</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1727279133418</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

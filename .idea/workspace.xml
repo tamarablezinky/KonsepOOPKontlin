@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b2aac7b-cdf0-45e8-b66e-4bc1f9eedf13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/NestedInnerClass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InterfaceCKt">
+  <component name="RunManager" selected="Kotlin.InterfaceDKt">
     <configuration name="AccesModifierA_AbstrakKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AccesModifierA_AbstrakKt" />
       <module name="KonsepOOPKontlin" />
@@ -67,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VisibilityAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.VisibilityAKt" />
+    <configuration name="InterfaceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InterfaceDKt" />
       <module name="KonsepOOPKontlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InterfaceDKt" />
         <item itemvalue="Kotlin.InterfaceCKt" />
         <item itemvalue="Kotlin.InterfaceAKt" />
         <item itemvalue="Kotlin.AccesModifierA_AbstrakKt" />
         <item itemvalue="Kotlin.AccessModifierAKt" />
-        <item itemvalue="Kotlin.VisibilityAKt" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727275712833</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add InterfaceD.kt">
+      <created>1727276066239</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1727276066240</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -295,6 +303,7 @@
     <MESSAGE value="Add InterfaceA.kt" />
     <MESSAGE value="Add InterfaceB.kt" />
     <MESSAGE value="Add InterfaceC.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InterfaceC.kt" />
+    <MESSAGE value="Add InterfaceD.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InterfaceD.kt" />
   </component>
 </project>
